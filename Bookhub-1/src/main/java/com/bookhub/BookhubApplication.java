@@ -1,4 +1,4 @@
-// Nikita Pareek
+
 package com.bookhub;
 
 import org.springframework.boot.SpringApplication;

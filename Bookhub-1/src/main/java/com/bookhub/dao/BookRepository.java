@@ -1,4 +1,4 @@
-// Nikita Pareek
+
 package com.bookhub.dao;
 
 import com.bookhub.model.Book;

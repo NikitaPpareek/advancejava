@@ -1,4 +1,4 @@
-// Nikita Pareek
+
 package com.bookhub.model;
 
 import jakarta.persistence.*;
